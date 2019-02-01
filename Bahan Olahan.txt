@@ -1,0 +1,56 @@
+Baso Ikan
+550
+1
+Ikan
+
+Baso Sapi
+1100
+1
+Daging Sapi
+
+Es Krim
+300
+2
+Es
+Susu
+
+Nasi
+700
+2
+Air
+Beras
+
+Sosis Ayam
+700
+1
+Daging Ayam
+
+Sosis Sapi
+1100
+1
+Daging Sapi
+
+Tahu
+500
+2
+Kacang
+Minyak Goreng
+
+Telur Mata Sapi
+900
+3
+Garam
+Mentega
+Telur
+
+Telur Rebus
+700
+2
+Air
+Telur
+
+Tempe
+500
+2
+Kacang
+Minyak Goreng
